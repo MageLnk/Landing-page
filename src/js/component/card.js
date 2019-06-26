@@ -4,7 +4,7 @@ export function Card() {
 		<div className="card h-100">
 			<img
 				className="card-img-top"
-				src="http://placehold.it/500x325"
+				src="http://placehold.it/400x125"
 				alt=""
 			/>
 			<div className="card-body">
